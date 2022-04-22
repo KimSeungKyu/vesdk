@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: ly.img.android.sdk.ui.mobile_ui:all:10.0.1@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/f27afc9067f1a146882f6da9c6ace6df/transformed/all-10.0.1/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/f27afc9067f1a146882f6da9c6ace6df/transformed/all-10.0.1/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/f27afc9067f1a146882f6da9c6ace6df/transformed/all-10.0.1/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
