@@ -2,6 +2,7 @@ plugins {
     id 'com.android.application'
     id 'ly.img.android.sdk'
     id 'org.jetbrains.kotlin.android'
+    id 'com.google.android.libraries.mapsplatform.secrets-gradle-plugin'
 }
 
 // Configure the IMGLYPlugin

@@ -1,9 +1,9 @@
 <component name="libraryTable">
   <library name="Gradle: ly.img.android.sdk.ui.mobile_ui:sticker:10.0.1@aar">
     <CLASSES>
-      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/357f0e372852d31254e63bcdf90ca717/transformed/sticker-10.0.1/jars/classes.jar!/" />
-      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/357f0e372852d31254e63bcdf90ca717/transformed/sticker-10.0.1/res" />
-      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/357f0e372852d31254e63bcdf90ca717/transformed/sticker-10.0.1/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/89adacfd63f347677bfb7e73f9bbb2ec/transformed/sticker-10.0.1/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/89adacfd63f347677bfb7e73f9bbb2ec/transformed/sticker-10.0.1/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/89adacfd63f347677bfb7e73f9bbb2ec/transformed/sticker-10.0.1/res" />
     </CLASSES>
     <JAVADOC />
     <SOURCES />

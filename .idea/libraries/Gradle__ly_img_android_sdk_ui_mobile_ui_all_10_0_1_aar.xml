@@ -1,9 +1,9 @@
 <component name="libraryTable">
   <library name="Gradle: ly.img.android.sdk.ui.mobile_ui:all:10.0.1@aar">
     <CLASSES>
-      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/f27afc9067f1a146882f6da9c6ace6df/transformed/all-10.0.1/jars/classes.jar!/" />
-      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/f27afc9067f1a146882f6da9c6ace6df/transformed/all-10.0.1/res" />
-      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/f27afc9067f1a146882f6da9c6ace6df/transformed/all-10.0.1/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/e3cc4c0fc4861021663c35c86fc66e7b/transformed/all-10.0.1/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/e3cc4c0fc4861021663c35c86fc66e7b/transformed/all-10.0.1/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/e3cc4c0fc4861021663c35c86fc66e7b/transformed/all-10.0.1/AndroidManifest.xml" />
     </CLASSES>
     <JAVADOC />
     <SOURCES />

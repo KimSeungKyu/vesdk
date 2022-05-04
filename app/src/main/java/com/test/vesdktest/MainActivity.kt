@@ -38,14 +38,13 @@ class MainActivity : AppCompatActivity() {
 
     val requestGetVideo = registerForActivityResult(ActivityResultContracts.GetContent()) { uri ->
         runCatching {
-            val tempDir = createTempDir()
-            val resultFile = File(tempDir, "result.mp4")
             VideoEditorSettingsList(saveUriPermissions = true)
                 .configure<LoadSettings> {
                     it.source = uri
                 }
                 .configure<SaveSettings> {
-                    // 원본에 덮어 씌우면 안됨.
+                    val tempDir = createTempDir()
+                    val resultFile = File(tempDir, "result.mp4")
                     it.setOutputToUri(resultFile.toUri())
                     it.outputMode = OutputMode.EXPORT_IF_NECESSARY
                 }

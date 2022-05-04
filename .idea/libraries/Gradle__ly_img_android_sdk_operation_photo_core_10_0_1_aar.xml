@@ -1,9 +1,9 @@
 <component name="libraryTable">
   <library name="Gradle: ly.img.android.sdk.operation:photo-core:10.0.1@aar">
     <CLASSES>
-      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/e5c41c0f22ca06db562466558f6fd8d1/transformed/photo-core-10.0.1/jars/classes.jar!/" />
-      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/e5c41c0f22ca06db562466558f6fd8d1/transformed/photo-core-10.0.1/res" />
-      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/e5c41c0f22ca06db562466558f6fd8d1/transformed/photo-core-10.0.1/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/e30238e16ef89f50f88695ff8647444d/transformed/photo-core-10.0.1/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/e30238e16ef89f50f88695ff8647444d/transformed/photo-core-10.0.1/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/e30238e16ef89f50f88695ff8647444d/transformed/photo-core-10.0.1/jars/classes.jar!/" />
     </CLASSES>
     <JAVADOC />
     <SOURCES />

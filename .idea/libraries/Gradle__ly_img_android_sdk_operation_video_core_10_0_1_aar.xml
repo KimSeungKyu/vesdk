@@ -1,9 +1,9 @@
 <component name="libraryTable">
   <library name="Gradle: ly.img.android.sdk.operation:video-core:10.0.1@aar">
     <CLASSES>
-      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/2e96a6105c04e6f1aacaedc17a4b5721/transformed/video-core-10.0.1/jars/classes.jar!/" />
-      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/2e96a6105c04e6f1aacaedc17a4b5721/transformed/video-core-10.0.1/res" />
-      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/2e96a6105c04e6f1aacaedc17a4b5721/transformed/video-core-10.0.1/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/d0a5bf0bafa2468802ac1645ce6db238/transformed/video-core-10.0.1/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/d0a5bf0bafa2468802ac1645ce6db238/transformed/video-core-10.0.1/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/d0a5bf0bafa2468802ac1645ce6db238/transformed/video-core-10.0.1/AndroidManifest.xml" />
     </CLASSES>
     <JAVADOC />
     <SOURCES />
